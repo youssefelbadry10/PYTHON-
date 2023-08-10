@@ -1,2 +1,2 @@
 # PYTHON 💻
-Problem solving , Data Structure
+Problem solving , Data Structure , OOP , AI 
